@@ -1,4 +1,4 @@
-# Dataset of T-20 international matches happened between 2006-2017
+# Dataset of T-20 international matches (2006-2017)
 
 
 Data is collected from the Cricinfo and kaggle. 
